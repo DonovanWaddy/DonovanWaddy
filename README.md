@@ -1,7 +1,20 @@
-### Hi there 👋
+<h1>Hi, Im Donovan! <br/><a href="https://github.com/donovanwaddy">Programmer</a>, <a href="https://www.linkedin.com/in/donovanwaddy/">Cybersecurity Professional</a> </h1>
+
+<h2> Certifications:</h2>
+
+- [CyberSecurity Analyst+, CySA+]
+- [Cisco Certified Network Associate, CCNA]
+- [Security+, Sec+]
+
+<h2> Cyber Security Projects </h2>
+
+
+<h2> Connect with me:</h2>
+
+[linkedin]: https://linkedin.com/in/donovanwaddy
 
 <!--
-**DonovanWaddy/DonovanWaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**donovanwaddy/donovanwaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
